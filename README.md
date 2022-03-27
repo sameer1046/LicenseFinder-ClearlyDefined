@@ -1,1 +1,1 @@
-# LicenseFinderClearlyDefined
+# LicenseFinder-ClearlyDefined
